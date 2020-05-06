@@ -1,0 +1,33 @@
+.sign {
+    float: left; 
+    border: 1px solid #333; /*#333*/ 
+    padding: 7px; 
+    margin: 20px; 
+    background: #ffffff    /*#f0f0f0;*/ 
+}
+
+.sign figcaption {
+    margin: 0 auto 5px; 
+    font-size: 200%;
+    background: rgb(255,255,255);
+}
+
+
+.header {
+    text-align: center;
+    font-size: 200%;
+    background-color:rgba(255, 255, 255, 0.451);
+    margin-top: 1%;
+
+}
+
+.block {
+    text-align: center;
+    margin-left: 14%;
+    background: rgb(255, 255, 255);
+}
+
+body{
+    background: rgb(5,1,80);
+    background: linear-gradient(180deg, rgba(5,1,80,1) 0%, rgba(23,62,152,1) 43%, rgba(0,212,255,1) 100%);
+}
